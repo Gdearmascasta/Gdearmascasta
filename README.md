@@ -1,4 +1,4 @@
-[![German De Armas Castaño + Industrial Engineer + Data Scientist](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=F78C30&center=true&vCenter=true&width=900&lines=German+De+Armas+Casta%C3%B1o+%2B+Industrial+Engineer+%2B+Data+Scientist)](https://github.com/Gdearmascasta)
+[![German De Armas Castaño + Industrial Engineer + Data Scientist](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=F78C30&center=true&vCenter=true&width=900&lines=German+De+Armas+Casta%C3%B1o;Industrial+Engineer+%2B+Data+Scientist)](https://github.com/Gdearmascasta)
 
 [![profile views](https://komarev.com/ghpvc/?username=Gdearmascasta&style=flat&color=f78c30&label=profile+views)](https://github.com/Gdearmascasta)
 
