@@ -4,15 +4,7 @@
 
 ---
 
-## `$ whoami`
 
-```bash
-gdearmascasta:~$ whoami
-Industrial Engineer + Data Scientist
-EDA · modelos predictivos · dashboards de datos
-```
-
-## `$ connect --socials`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gdearmascasta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gdearmascasta)
 [![Gmail](https://img.shields.io/badge/Gmail-gcasta808@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcasta808@gmail.com)
