@@ -33,7 +33,7 @@ EDA · modelos predictivos · dashboards de datos
 | [Vitrina](https://github.com/Gdearmascasta/Vitrina) | Aplicación web en TypeScript desplegada en Vercel ([demo](https://vitrina-phi.vercel.app)) | `TypeScript · Vercel` |
 | [P_BD](https://github.com/Gdearmascasta/P_BD) | Plataforma SCADA IoT full-stack: telemetría DHT11/DHT22 en tiempo real, pipeline ETL a PostgreSQL (3NF) y SQL Playground interactivo con 20 consultas ([demo](https://p-bd.onrender.com)) | `React · FastAPI · PostgreSQL` |
 | [Sensado_y_modeladoSF](https://github.com/Gdearmascasta/Sensado_y_modeladoSF) | Laboratorio de 5 experimentos: tracking de gravedad con OpenCV, FFT en péndulo y clasificación Sentinel-2 con Random Forest, orquestados con Bento Launcher | `Python · TypeScript · OpenCV · FastAPI` |
-| [dash](https://github.com/Gdearmascasta/dash) | Dashboard de prueba en Python desplegado en Vercel ([demo](https://dash-xd-c7ad.vercel.app)) | `Python · Vercel` |
+| [Gestion-de-flota-APP](https://github.com/Gdearmascasta/Gestion-de-flota-APP) | Gestión de vehículos y pedidos con optimización de rutas (Vecino Más Cercano) y visualización en mapa con Leaflet ([demo](https://gestion-de-flota-app.vercel.app)) | `React · FastAPI · Leaflet` |
 
 ## `github-stats`
 
