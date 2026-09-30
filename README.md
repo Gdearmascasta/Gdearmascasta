@@ -1,5 +1,3 @@
-[![German De Armas Castaño](https://capsule-render.vercel.app/api?type=soft&color=0:0A2540,100:1F6FEB&height=180&section=header&text=German%20De%20Armas%20Casta%C3%B1o&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Industrial%20Engineer%20%E2%80%A2%20Data%20Scientist&descAlign=60&descSize=18)](https://github.com/Gdearmascasta)
-
 [![German De Armas Castaño + Industrial Engineer + Data Scientist](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=German+De+Armas+Casta%C3%B1o;Industrial+Engineer+%2B+Data+Scientist)](https://github.com/Gdearmascasta)
 
 [![profile views](https://komarev.com/ghpvc/?username=Gdearmascasta&style=flat&color=f78c30&label=profile+views)](https://github.com/Gdearmascasta)
@@ -31,11 +29,11 @@ EDA · modelos predictivos · dashboards de datos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [CMAPS-RUL](https://github.com/Gdearmascasta/CMAPS-RUL) | Regresión lineal con el dataset CMAPSS de la NASA para predecir el RUL de motores aeronáuticos | `Jupyter · Python` |
-| [Vitrina](https://github.com/Gdearmascasta/Vitrina) | Aplicación web desplegada en Vercel ([demo](https://vitrina-phi.vercel.app)) | `TypeScript` |
-| [P_BD](https://github.com/Gdearmascasta/P_BD) | Aplicación web desplegada en Render ([demo](https://p-bd.onrender.com)) | `JavaScript` |
-| [Sensado_y_modeladoSF](https://github.com/Gdearmascasta/Sensado_y_modeladoSF) | Prácticas y códigos de Sensado y Modelado de Sistemas Físicos | `TypeScript` |
-| [dash](https://github.com/Gdearmascasta/dash) | Dashboard de prueba ([demo](https://dash-xd-c7ad.vercel.app)) | `Python · Vercel` |
+| [CMAPS-RUL](https://github.com/Gdearmascasta/CMAPS-RUL) | EDA, preprocesamiento y regresión lineal sobre el dataset CMAPSS de la NASA para predecir la vida útil restante (RUL) de motores aeronáuticos | `Jupyter · Python · Scikit-learn` |
+| [Vitrina](https://github.com/Gdearmascasta/Vitrina) | Aplicación web en TypeScript desplegada en Vercel ([demo](https://vitrina-phi.vercel.app)) | `TypeScript · Vercel` |
+| [P_BD](https://github.com/Gdearmascasta/P_BD) | Plataforma SCADA IoT full-stack: telemetría DHT11/DHT22 en tiempo real, pipeline ETL a PostgreSQL (3NF) y SQL Playground interactivo con 20 consultas ([demo](https://p-bd.onrender.com)) | `React · FastAPI · PostgreSQL` |
+| [Sensado_y_modeladoSF](https://github.com/Gdearmascasta/Sensado_y_modeladoSF) | Laboratorio de 5 experimentos: tracking de gravedad con OpenCV, FFT en péndulo y clasificación Sentinel-2 con Random Forest, orquestados con Bento Launcher | `Python · TypeScript · OpenCV · FastAPI` |
+| [dash](https://github.com/Gdearmascasta/dash) | Dashboard de prueba en Python desplegado en Vercel ([demo](https://dash-xd-c7ad.vercel.app)) | `Python · Vercel` |
 
 ## `github-stats`
 
