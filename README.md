@@ -12,26 +12,20 @@ Industrial Engineer + Data Scientist
 EDA · modelos predictivos · dashboards de datos
 ```
 
-## `$ cat tech-stack.yaml`
+## `$ visual-map --signals`
 
-```yaml
-gdearmascasta:~$ cat tech-stack.yaml
-├─ data_science:
-│   Python · R · PySpark (Apache Spark) · Jupyter
-│   Pandas · NumPy · Scikit-learn · Matplotlib · Plotly
-├─ databases:
-│   SQL · PostgreSQL · pgAdmin
-├─ bi_office:
-│   PowerBI · Excel
-├─ dashboards_web:
-│   Plotly Dash · JavaScript · TypeScript · HTML · CSS
-├─ deploy_containers:
-│   Podman · Vercel · Render · Posit Cloud
-╰─ tools_docs:
-    Git · GitHub · VSCode · Markdown · LaTeX
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-dark.svg" />
+  <img src="assets/radar-skills-light.svg" width="49%" alt="Data Skill Radar" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg" />
+  <img src="assets/radar-langs-light.svg" width="49%" alt="Language mix" />
+</picture>
 
-status: ready · environment: production
-```
+`signals: data_skill_radar · language_mix_radar · status: healthy`
+
+## `stack`
 
 `├─ 📊 data_science:`
 

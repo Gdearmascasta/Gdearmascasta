@@ -1,0 +1,11 @@
+{
+  "title": "Data Skill Radar",
+  "axes": [
+    {"label": "Python", "value": 90},
+    {"label": "R", "value": 80},
+    {"label": "SQL", "value": 85},
+    {"label": "🐧 Linux", "value": 75},
+    {"label": "Spark", "value": 70},
+    {"label": "Git", "value": 80}
+  ]
+}
