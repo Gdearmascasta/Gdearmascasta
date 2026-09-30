@@ -1,0 +1,5 @@
+# Perfil de GitHub — archivos a ignorar
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
