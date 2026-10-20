@@ -13,11 +13,9 @@ Ingeniero Industrial y profesional en Ciencia de Datos de la <b>Universidad Tecn
 </p>
 
 <ul>
-  <li>🔧 <b>Mantenimiento predictivo:</b> modelos de vida útil restante (RUL) con el dataset CMAPSS de la NASA.</li>
-  <li>📡 <b>IoT y datos en tiempo real:</b> telemetría de sensores, pipelines ETL y bases de datos en PostgreSQL.</li>
-  <li>🛰️ <b>Visión por computador y teledetección:</b> OpenCV, análisis de señales con FFT y clasificación de imágenes Sentinel-2.</li>
-  <li>🚚 <b>Optimización y logística:</b> ruteo de flotas con visualización en mapas.</li>
-  <li>🌐 <b>Full-stack para datos:</b> apps con React + FastAPI desplegadas en Vercel y Render.</li>
+  <li>🎧 La música me acompaña en todo: programando, estudiando o simplemente pensando.</li> 
+  <li>🔍 Soy curioso por naturaleza; si algo funciona, quiero entender por qué.</li> <li>🔥 Me apasiona lo que hago y disfruto convertir datos en algo que se pueda ver y usar.</li> <li>🌱 Siempre aprendiendo algo nuevo, de un proyecto a la vez.</li> 
+  <li> 💬 Abierto a colaborar. </li>
 </ul>
 
 <br>
