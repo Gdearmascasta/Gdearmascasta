@@ -13,9 +13,11 @@ Ingeniero Industrial y profesional en Ciencia de Datos de la <b>Universidad Tecn
 </p>
 
 <ul>
-  <li>🎧 La música me acompaña en todo: programando, estudiando o simplemente pensando.</li> 
-  <li>🔍 Soy curioso por naturaleza; si algo funciona, quiero entender por qué.</li> <li>🔥 Me apasiona lo que hago y disfruto convertir datos en algo que se pueda ver y usar.</li> <li>🌱 Siempre aprendiendo algo nuevo, de un proyecto a la vez.</li> 
-  <li> 💬 Abierto a colaborar. </li>
+  <li>🎧 La música me acompaña en todo: programando, estudiando o simplemente pensando.</li>
+  <li>🔍 Soy curioso por naturaleza; si algo funciona, quiero entender por qué.</li>
+  <li>🔥 Me apasiona lo que hago y disfruto convertir datos en algo que se pueda ver y usar.</li>
+  <li>🌱 Siempre aprendiendo algo nuevo, de un proyecto a la vez.</li>
+  <li>💬 Abierto a colaborar, conversar de datos o recomendar buena música.</li>
 </ul>
 
 <br>
@@ -81,27 +83,27 @@ Ingeniero Industrial y profesional en Ciencia de Datos de la <b>Universidad Tecn
   </tr>
   <tr>
     <td><a href="https://github.com/Gdearmascasta/CMAPS-RUL">CMAPS-RUL</a></td>
-    <td>EDA, preprocesamiento y regresión lineal sobre el dataset CMAPSS de la NASA para predecir la vida útil restante (RUL) de motores aeronáuticos</td>
+    <td>Predice cuántos ciclos de vida le quedan a un motor de avión antes de fallar, a partir de las lecturas de sus sensores. Usa datos de la NASA (CMAPSS), con análisis exploratorio, limpieza de datos y un modelo de regresión.</td>
     <td><code>Jupyter · Python · Scikit-learn</code></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Gdearmascasta/Vitrina">Vitrina</a></td>
-    <td>Aplicación web en TypeScript desplegada en Vercel (<a href="https://vitrina-phi.vercel.app">demo</a>)</td>
-    <td><code>TypeScript · Vercel</code></td>
+    <td>Página inmersiva para promocionar una experiencia de turismo campesino alrededor de la guama en los Montes de María, Bolívar. Tiene video, paisaje sonoro, mapa interactivo y formulario de reserva (<a href="https://vitrina-phi.vercel.app">demo</a>).</td>
+    <td><code>Next.js · TypeScript · Tailwind · Framer Motion</code></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Gdearmascasta/P_BD">P_BD</a></td>
-    <td>Plataforma SCADA IoT full-stack: telemetría DHT11/DHT22 en tiempo real, pipeline ETL a PostgreSQL (3NF) y SQL Playground interactivo con 20 consultas (<a href="https://p-bd.onrender.com">demo</a>)</td>
+    <td>Sistema tipo SCADA para monitorear temperatura y humedad en tiempo real desde sensores. Guarda las lecturas en una base de datos normalizada y permite consultarlas desde la web con 20 consultas SQL listas para probar (<a href="https://p-bd.onrender.com">demo</a>).</td>
     <td><code>React · FastAPI · PostgreSQL</code></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Gdearmascasta/Sensado_y_modeladoSF">Sensado_y_modeladoSF</a></td>
-    <td>Laboratorio de 5 experimentos: tracking de gravedad con OpenCV, FFT en péndulo y clasificación Sentinel-2 con Random Forest, orquestados con Bento Launcher</td>
+    <td>Cinco experimentos que conectan física y datos: medir la gravedad siguiendo un objeto en video, analizar el movimiento de un péndulo y clasificar el uso del suelo con imágenes satelitales. Todos se lanzan desde una sola app.</td>
     <td><code>Python · TypeScript · OpenCV · FastAPI</code></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Gdearmascasta/Gestion-de-flota-APP">Gestion-de-flota-APP</a></td>
-    <td>Gestión de vehículos y pedidos con optimización de rutas (Vecino Más Cercano) y visualización en mapa con Leaflet (<a href="https://gestion-de-flota-app.vercel.app">demo</a>)</td>
+    <td>App para administrar vehículos y pedidos de reparto. Calcula rutas de entrega más cortas y las muestra en un mapa (<a href="https://gestion-de-flota-app.vercel.app">demo</a>).</td>
     <td><code>React · FastAPI · Leaflet</code></td>
   </tr>
 </table>
