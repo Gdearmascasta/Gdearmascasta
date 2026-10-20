@@ -6,6 +6,20 @@
   </a>
 </div>
 
+<h3>👨‍💻 Sobre mí</h3>
+
+<p>
+Ingeniero Industrial y profesional en Ciencia de Datos de la <b>Universidad Tecnológica de Bolívar</b>, en Cartagena de Indias, Colombia. Me gusta llevar los datos de punta a punta: desde el sensor o la base de datos hasta el modelo y el dashboard desplegado.
+</p>
+
+<ul>
+  <li>🔧 <b>Mantenimiento predictivo:</b> modelos de vida útil restante (RUL) con el dataset CMAPSS de la NASA.</li>
+  <li>📡 <b>IoT y datos en tiempo real:</b> telemetría de sensores, pipelines ETL y bases de datos en PostgreSQL.</li>
+  <li>🛰️ <b>Visión por computador y teledetección:</b> OpenCV, análisis de señales con FFT y clasificación de imágenes Sentinel-2.</li>
+  <li>🚚 <b>Optimización y logística:</b> ruteo de flotas con visualización en mapas.</li>
+  <li>🌐 <b>Full-stack para datos:</b> apps con React + FastAPI desplegadas en Vercel y Render.</li>
+</ul>
+
 <br>
 
 <div align="left">
