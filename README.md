@@ -1,8 +1,20 @@
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWM2cGQyNWxhdG1kY2dmMHhlZjhsMDB5Z295ZTBvd2M0Y2w1b3YxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFlYFzFsDiVssrxpnW/giphy.gif" alt="gif" />
 
-<a href="https://github.com/Gdearmascasta">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=1F6FEB&amp;vCenter=true&amp;width=600&amp;lines=Germ%C3%A1n+De+Armas+Casta%C3%B1o;Industrial+Engineer+%2B+Data+Scientist" alt="Germán De Armas Castaño - Industrial Engineer + Data Scientist" />
-</a>
+<div align="center">
+  <a href="https://github.com/Gdearmascasta">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=1F6FEB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Germ%C3%A1n+De+Armas+Casta%C3%B1o;Industrial+Engineer+%2B+Data+Scientist" alt="Germán De Armas Castaño - Industrial Engineer + Data Scientist" />
+  </a>
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/german-eduardo-de-armas-casta%C3%B1o-95475921a" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="mailto:gcasta808@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://github.com/Gdearmascasta" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&amp;logo=github&amp;label=&amp;color=181717&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="github logo" /></a>
+</div>
+
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -40,29 +52,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
-<br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/german-eduardo-de-armas-casta%C3%B1o-95475921a" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="mailto:gcasta808@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://github.com/Gdearmascasta" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&amp;logo=github&amp;label=&amp;color=181717&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="github logo" /></a>
-</div>
-
 <br clear="both">
 
 <div align="center">
   <img src="./profile/stats.svg" height="150" alt="stats graph" />
   <img src="./profile/top-langs.svg" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gdearmascasta/Gdearmascasta/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gdearmascasta/Gdearmascasta/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Gdearmascasta/Gdearmascasta/output/pacman-contribution-graph.svg" />
-  </picture>
 </div>
 
 <h2>Proyectos destacados</h2>
@@ -99,3 +93,13 @@
     <td><code>React · FastAPI · Leaflet</code></td>
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gdearmascasta/Gdearmascasta/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gdearmascasta/Gdearmascasta/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Gdearmascasta/Gdearmascasta/output/pacman-contribution-graph.svg" />
+  </picture>
+</div>
